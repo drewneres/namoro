@@ -14,7 +14,7 @@ function getRandomPosition() {
   }
   
   function showLoveMessage() {
-    alert('EU GOSTO MUITO DE TU JU! Você é MUITO incrível!');
+    alert('Você é MUITO incrível!');
   }
   
   document.getElementById('simButton').addEventListener('click', function() {
