@@ -19,7 +19,7 @@ function getRandomPosition() {
   
   document.getElementById('simButton').addEventListener('click', function() {
     showLoveMessage();
-    window.location.href = 'https://youtu.be/QcZNV0HVo9Y?t=67';
+    window.location.href = 'https://youtu.be/har3c93pJe0?t=55';
   });
   
   document.getElementById('naoButton').addEventListener('mouseover', function() {
